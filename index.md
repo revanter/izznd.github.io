@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to izznd博客 Pages
 
 You can use the [editor on GitHub](https://github.com/revanter/izznd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
